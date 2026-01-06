@@ -34,7 +34,7 @@
 
         <div class="flex items-center justify-between mt-4">
 
-         <a href="" class="">google</a>
+         <a href="{{route('auth.google')}}" class="bg-transparent hover:bg-blue-500 text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded">google</a>
 
       
 
